@@ -1,3 +1,4 @@
+import Accordian from "./Components/Accordian"
 
 
 function App() {
@@ -5,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>Cześć</h1>
+     <Accordian/>
     </>
   )
 }
